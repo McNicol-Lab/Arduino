@@ -1,0 +1,16 @@
+date,ecosystem,min_elapsed
+240221,Short1,0
+240221,Short2,2
+240221,Short3,4
+240221,Short4,6
+240221,Short5,8
+240221,Long1,0
+240221,Long2,5
+240221,Long3,10
+240221,Long4,20
+240221,Long5,30
+240221,NoSource1,0
+240221,NoSource2,2
+240221,NoSource3,4
+240221,NoSource4,6
+240221,NoSource5,8
